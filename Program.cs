@@ -11,7 +11,7 @@ namespace ADO.NETProject
             //employeeService.CreateEmployees();
             //employeeService.GetAllEmployees();
             //employeeService.UpdateEmployee();
-            employeeService.DeleteEmployee();
+            //employeeService.DeleteEmployee();
         }
     }
 }
